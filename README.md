@@ -1,4 +1,8 @@
-# Source code VIP NEW backend server game ninja school online Dev Mob by GVN
-# Source code VIP NEW backend server game ninja school online version Hồi Ức version VIP NEW
-<img width="450" height="250" src="https://ninjaschool.org/images/slide-01.png">
-# 📬 Dev Mob by GVN
+# Ninja School Online Backend version Hồi Ức
+
+   - Đây chỉ là tài liệu mang tính chất học tập.
+   - This content is for educational purposes only.
+
+## Env
+
+- **JDK**: 8
